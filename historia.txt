@@ -1,5 +1,6 @@
 Este es un archivo de prueba
 
-Pepe tiene 38 años y nació en Sevilla
+Pepe tiene 38 años y nació en Sevilla, 
+viviendo en todo el mundo.
 
 Hoy hablamos de mi
