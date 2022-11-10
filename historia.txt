@@ -1,6 +1,5 @@
 Este es un archivo de prueba
 
-Pepe tiene 38 años y nació en Sevilla, 
-viviendo en todo el mundo.
+Pepe tiene 38 años y nació en Sevilla
 
-Hoy hablamos de mi vida y obra maestra.
+Mañana nos enfocaremos en su vida laboral.
